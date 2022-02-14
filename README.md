@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as .NET Developer in <a href="https://www.linkgroup.com/" target="blank">LinkGroup</a>.
 
-[![Build Status](https://www.linkgroup.com/img/linkgrouplogo.png)](https://www.linkgroup.com)
-
 - 👨‍💻 All of my projects are available at [https://shekar-rajams.netlify.app/](https://shekar-rajams.netlify.app/)
 
 - 📫 How to reach me **rajashekarmanthena18@gmail.com**
