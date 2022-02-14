@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shekar_rajams" target="blank"><img src="https://img.shields.io/twitter/follow/shekar_rajams?logo=twitter&style=for-the-badge" alt="shekar_rajams" /></a> </p>
 
-- 🔭 I’m currently working as .NET Developer in <a href="https://www.linkgroup.com/" target="blank"><img src="https://www.linkgroup.com/img/linkgrouplogo.png"></a>
+- 🔭 I’m currently working as .NET Developer in <a href="https://www.linkgroup.com/" target="blank">LinkGroup</a>.
 
 - 👨‍💻 All of my projects are available at [https://shekar-rajams.netlify.app/](https://shekar-rajams.netlify.app/)
 
